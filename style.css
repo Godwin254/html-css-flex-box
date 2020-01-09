@@ -1,0 +1,56 @@
+body{
+    font-display: helvatica;
+    background-image: url("lask.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+form{
+    color: white;
+    padding: 50px 10px 50px 80px;
+    background-image: url("lask.jpg");
+    background-position: center;
+    opacity: 0.7;
+    width: 250px;
+    top: 40%;
+    left: 45%;
+    margin-top: -100px;
+    margin-left: -100px;
+    position: fixed;
+    margin: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+.pa1{
+    color: yellow;
+    font-size: 10px;
+    float: right;
+    padding-right: 60px;
+
+}
+.btx {
+    border: 1px solid white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 20px;
+}
+.btn {
+    border: 1px solid rgb(255, 30, 0);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color: rgb(255, 30, 0);
+    margin-left: 40px;
+}
